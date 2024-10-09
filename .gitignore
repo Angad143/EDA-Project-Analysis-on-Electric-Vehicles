@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+
+#########################
+Tutorial - Plotly Express.docx
+
+###########################
+
 # Distribution / packaging
 .Python
 build/

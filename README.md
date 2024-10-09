@@ -1,6 +1,6 @@
 
 
-# Electric Vehicles Exploratory Data Analysis (EDA)
+# EDA Project - Analysis on Electric Vehicles
 
 ## Table of Contents
 - [Introduction](#introduction)

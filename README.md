@@ -1,3 +1,14 @@
+# **Tools and Libraries Used in Our Project**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Google%20Colab-blue?style=flat&logo=google-colab&logoColor=white" alt="Google Colab" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Plotly-3D1E9E?style=flat&logo=plotly&logoColor=white" alt="Plotly" style="flex: 1 1 30%;">
+</div>
 
 
 # EDA Project - Analysis on Electric Vehicles
